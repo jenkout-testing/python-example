@@ -3,4 +3,4 @@ sudo: false
 python:
 - 2.7
 
-install: pip -v
+install: pip install pandas
